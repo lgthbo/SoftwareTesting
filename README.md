@@ -9,3 +9,5 @@ Software Testing  2019
 
 
 ![軟體測試= =?](https://imgur.com/FC7JmQE)
+
+![stack Overflow](http://lmsotfy.com/so.png)
